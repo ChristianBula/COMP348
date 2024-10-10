@@ -1,9 +1,9 @@
-4999|Elizabeth|Swan|33|32|35|23|37
+5100|Elizabeth|Swan|33|32|35|23|37
 5000|James|Lafleur|32|18|14|21|36
-5001|John|David|12|28|31|11|32
+5016|John|David|12|28|31|11|32
 5002|Jotaro|Kujo|5|28|24|16|26
-5003|Max|Verstapen|22|21|27|17|31
+5021|Max|Verstapen|0|21|27|17|23
 5004|Ginny|Weasley|25|19|37|18|32
-5005|Michael|Scofield|12|15|16|7|14
+5049|Michael|Scofield|12|15|16|7|14
 5006|Mia|Torreto|39|38|37|24|40
-
+5023|Ewan|Portrat|1|1|1|1|1
